@@ -5,3 +5,5 @@ AFP 1.
 	A gép 1-100 között generál egy számot, és a felhasználónak ki kell találnia azt.
 
 2. fejezet - Jelenlegi helyzet
+
+	Még nem kezdtük el. :(
