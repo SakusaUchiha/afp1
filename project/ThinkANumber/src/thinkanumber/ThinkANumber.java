@@ -1,21 +1,29 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package thinkanumber;
 
-/**
- *
- * @author Andor
- */
+import java.util.Random;
+import java.util.Scanner;
+
 public class ThinkANumber {
 
-    /**
-     * @param args the command line arguments
-     */
+    private static int alja, teteje, gondolt, tipp;
+    private static Scanner sc;
+
     public static void main(String[] args) {
-        // TODO code application logic here
+        alja = 1;
+        teteje = 100;
+        sc = new Scanner(System.in);
+        gondolt = Generate();
+
+        System.out.println("Gondoltam egy számot " + alja + " és " + teteje + " között, találd ki!");
+        System.out.println("Az én tippem: ");
+        tipp = sc.nextInt();
+        //TODO: Megvizsgálni a tipp értékét, aztán ennek megfelelően válaszoljon a program.
+
     }
-    
+
+    private static int Generate() {
+        Random rnd = new Random();
+        return rnd.nextInt(teteje) + alja;
+    }
+
 }
