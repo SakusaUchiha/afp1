@@ -1,11 +1,7 @@
 AFP 1.
 https://trello.com/b/kxOYvGtR/afp-i-j%C3%A1t%C3%A9k-a-sz%C3%A1m%C3%ADt%C3%B3g%C3%A9p-ellen
 
-1. fejezet - Áttekintés
-
-	A gép 1-100 között generál egy számot, és a felhasználónak ki kell találnia ezt.	
-
-2. fejezet - Jelenlegi helyzet
-
-	Még nem kezdtük el. :(
-	De el fogjuk hamarosan.
+Áttekintés:
+	A számítógép "gondol" egy számot 1-100 között, és a felhasználónak ki kell találnia ezt 
+	tippelgetéssel. A gép segít, hogy magasabb, vagy alacsonyabb a gondolt szám a tippeltnél.
+	
