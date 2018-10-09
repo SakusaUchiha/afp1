@@ -15,8 +15,20 @@ public class ThinkANumber {
         gondolt = Generate();
 
         System.out.println("Gondoltam egy számot " + alja + " és " + teteje + " között, találd ki!");
-        System.out.println("Az én tippem: ");
+        System.out.println("Az én tippem: ");        
         tipp = sc.nextInt();
+        while(tipp < alja || tipp > teteje){
+            System.out.println("A tippelt szám a megadott intervallumon kívül esik. Tippeljen újra!");
+            tipp = sc.nextInt();
+        }
+        while(tipp != gondolt){
+            if(tipp < gondolt){
+                
+            }else{
+                
+            }
+        }        
+        
         //TODO: Megvizsgálni a tipp értékét, aztán ennek megfelelően válaszoljon a program.
 
     }
