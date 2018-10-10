@@ -10,3 +10,8 @@ Jelenlegi helyzet:
 Vágyálom:
 
 Követelmény lista:
+
+ID	Név			V.	Kifejtés
+--------------------------------------------------------------
+
+K1	Random generálás	1.0	Random szám generálása és osztályszintû változóban történõ tárolása.
