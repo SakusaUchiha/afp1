@@ -1,12 +1,16 @@
-A rendszer célja, és céljai:
-A program szorakozási lehetőséget nyújt. A gép "gondol" egy számra 1 és 100 között majd nekünk kell ezt kitalálni.
-A gép segíséget ad, hogy a gondolt szám magasabb, vagy alacsonyabb-e a tippelt számnál.
+﻿A rendszer célja, és céljai:
+
+	A program szórakozási lehetőséget nyújt. A gép "gondol" egy számra 1 és 100 között majd nekünk kell ezt kitalálni.
+	A gép segíséget ad, hogy a gondolt szám magasabb, vagy alacsonyabb-e a tippelt számnál.
 
 Jelenlegi helyzet leírása:
-Jelenleg a program tudja azokat a funkciókat, amelyeket az alap követelményben leírtunk.
+
+	Jelenleg a program tudja azokat a funkciókat, amelyeket az alap követelményben leírtunk.
 
 Vágyálom rendszer leírása:
-A gép a felhasználó által megadott intervallumok között tudjon gondolni.
+
+	A gép a felhasználó által megadott intervallumok között tudjon gondolni egy számra.
 
 Megfeleltetés:
-A megkapott szoftver 100%-ban fedi az alap elvárásokat, későbbiekben a bővítésekre is sor fog kerülni.
+
+	A megkapott szoftver 100%-ban fedi az alap elvárásokat, későbbiekben a bővítésekre is sor fog kerülni.
