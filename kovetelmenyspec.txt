@@ -16,3 +16,8 @@ ID	Név			V.	Kifejtés
 --------------------------------------------------------------
 
 K1	Random generálás	1.0	Random szám generálása és osztályszintû változóban történõ tárolása.
+K2	Szám bevitele		1.0	Egy szám kérése a felhasználótól, amit a billentyûzetrõl olvasunk be.
+					Ezt a számot eltároljuk egy változóban.
+K3	Összehasonlítás		1.0	A program képes legyen összehasonlítani a bekért és a generált számot egymással,
+					valamint megállapítani, hogy melyik szám a nagyobb és melyik a kisebb.
+K4	Visszajelzés		1.0	A program az összehasonlítás eredményérõl értesíti a felhasználót. 
