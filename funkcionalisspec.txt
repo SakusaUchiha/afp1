@@ -7,3 +7,6 @@ Jelenleg a program tudja azokat a funkciókat, amelyeket az alap követelménybe
 
 Vágyálom rendszer leírása:
 A gép a felhasználó által megadott intervallumok között tudjon gondolni.
+
+Megfeleltetés:
+A megkapott szoftver 100%-ban fedi az alap elvárásokat, későbbiekben a bővítésekre is sor fog kerülni.
