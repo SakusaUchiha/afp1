@@ -6,6 +6,8 @@ https://trello.com/b/kxOYvGtR/afp-i-j%C3%A1t%C3%A9k-a-sz%C3%A1m%C3%ADt%C3%B3g%C3
 	tippelgetéssel. A gép segít, hogy magasabb, vagy alacsonyabb a gondolt szám a tippeltnél.
 	
 Jelenlegi helyzet:
+	
+	A program a követelményeknek megfelelõen mûködõképes állapotban van. Bõvítményeket jelenleg még nem tartalmaz.
 
 Vágyálom:
 
